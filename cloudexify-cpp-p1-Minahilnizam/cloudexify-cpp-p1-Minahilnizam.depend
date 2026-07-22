@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1784706768 source:c:\users\apple\documents\cloudexify-cpp-p1-minahilnizam\cloudexify-cpp-p1-minahilnizam\main.cpp
+	"raylib.h"
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<ctime>
+	<cmath>
+
+1776938250 c:\raylib\include\raylib.h
+	<stdarg.h>
+	<stdbool.h>
+
