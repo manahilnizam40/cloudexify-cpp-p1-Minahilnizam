@@ -31,7 +31,7 @@ Instead of a simple command-line interface, this project is built as a **full Gr
 3. Make sure "Raylib" is linked in your build options.
 4. Press "F9" to build and run!
 
---------=--
+-----------
 
  📸 Screenshots
 ![Game Starting Screen](screenshot1.PNG)
